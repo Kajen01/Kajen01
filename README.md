@@ -8,13 +8,18 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
+<table align="center" width="100%">
+<tr>
+<td align="center">
+  
 ```
 Hello, I'm Kajenthiran, a passionate Full Stack Developer with a keen interest in creating innovative and impactful solutions. With expertise in both front-end and back-end development, I strive to craft seamless, user-friendly experiences.
 ```
+</td>
+</tr>
+</table>
 
-<table align="center">
-<tr>
-<td width="70%">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Here's my [portfolio]()
 - 📫 Reach me at:
@@ -27,13 +32,6 @@ Hello, I'm Kajenthiran, a passionate Full Stack Developer with a keen interest i
 - 💼 Open to exciting job opportunities and collaborations.
 - 🌟 Contribute to projects that make a positive impact on communities.
 - 📚 Stay curious, keep learning, and explore the limitless world of technology.
-
-</td>
-<td width="30%">
-<img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300px" alt="Coding gif">
-</td>
-</tr>
-</table>
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
 
