@@ -6,20 +6,13 @@
 </tr>
 </table>
 
-<h2 align="center"  style="margin-top: 40px;">👨‍💻 About Me</h2>
+<br>
 
-<table align="center" width="100%">
-<tr>
-<td align="center">
-  
-```
-Hello, I'm Kajenthiran, a passionate Full Stack Developer with a keen interest in creating innovative and impactful solutions.
-With expertise in both front-end and back-end development, I strive to craft seamless, user-friendly experiences.
-```
+<h2 align="center">👨‍💻 About Me</h2>
 
-</td>
-</tr>
-</table>
+<p align="justify">
+Hello, I'm Kajenthiran, a passionate Full Stack Developer with a keen interest in creating innovative and impactful solutions. With expertise in both front-end and back-end development, I strive to craft seamless, user-friendly experiences.
+</p>
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -35,7 +28,9 @@ With expertise in both front-end and back-end development, I strive to craft sea
 - 🌟 Contribute to projects that make a positive impact on communities.
 - 📚 Stay curious, keep learning, and explore the limitless world of technology.
 
-<h2 align="center" style="margin-top: 40px;">🛠️ Skills & Technologies</h2>
+<br>
+
+<h2 align="center">🛠️ Skills & Technologies</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -55,7 +50,9 @@ With expertise in both front-end and back-end development, I strive to craft sea
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h2 align="center" style="margin-top: 40px;">📊 GitHub Stats</h2>
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -63,7 +60,9 @@ With expertise in both front-end and back-end development, I strive to craft sea
 
 </div>
 
-<h2 align="center" style="margin-top: 40px;">🤝 Let's Connect</h2>
+<br>
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
