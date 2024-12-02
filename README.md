@@ -6,8 +6,6 @@
 </tr>
 </table>
 
-<br>
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="justify">
@@ -29,7 +27,6 @@ Hello, I'm Kajenthiran, a passionate Full Stack Developer with a keen interest i
 - 📚 Stay curious, keep learning, and explore the limitless world of technology.
 
 <br>
-
 <h2 align="center">🛠️ Skills & Technologies</h2>
 
 <p align="center">
@@ -51,7 +48,6 @@ Hello, I'm Kajenthiran, a passionate Full Stack Developer with a keen interest i
 </p>
 
 <br>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -61,7 +57,6 @@ Hello, I'm Kajenthiran, a passionate Full Stack Developer with a keen interest i
 </div>
 
 <br>
-
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
