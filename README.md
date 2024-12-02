@@ -12,7 +12,7 @@
 Hello, I'm Kajenthiran, a passionate Full Stack Developer with a keen interest in creating innovative and impactful solutions. With expertise in both front-end and back-end development, I strive to craft seamless, user-friendly experiences.
 </p>
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding gif">
 
 - 🔭 Here's my [portfolio]()
 - 📫 Reach me at:
